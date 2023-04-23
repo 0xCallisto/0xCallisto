@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Hello, this is Mohit Kumar Meena.</h2>
+<p>I am a soft-hard-core developer</p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xCallisto&show_icons=true&locale=en&layout=compact" alt="0xCallisto" /></p> -->
 
-<!--
-**0xCallisto/0xCallisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xCallisto&show_icons=true&locale=en" alt="0xCallisto" /></p> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xCallisto&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a></p>
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCallisto&count_private=true&layout=compact&theme=highcontrast" width="335"></a></p>
+
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xCallisto&theme=dark&background=000000" alt="0xCallisto" /></p>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/0xCallisto/count.svg) -->
+
